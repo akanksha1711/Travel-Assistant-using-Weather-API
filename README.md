@@ -2,7 +2,7 @@
 
 >## 🔍 Introduction  
 >>Traveling is an exciting experience, but it also comes with challenges, particularly when it comes to unpredictable weather conditions, health concerns, and safety risks. Travelers often face difficulties in assessing the impact of weather on their journey, which can lead to discomfort, disruptions, or even health hazards.<br>
-<br>To address this issue, [Akanksha Sharma](https://github.com/akanksha1711) and I have developed an *AI-powered Travel Assistant* that provides real-time weather updates, health risk advisories, and travel safety recommendations. By leveraging *n8n, an automation workflow tool, and the **OpenWeatherMap API, the assistant processes and delivers **personalized travel insights* to users.<br>  
+<br>To address this issue, [Mehak Bhardwaj](https://github.com/MB581) and I have developed an *AI-powered Travel Assistant* that provides real-time weather updates, health risk advisories, and travel safety recommendations. By leveraging *n8n, an automation workflow tool, and the **OpenWeatherMap API, the assistant processes and delivers **personalized travel insights* to users.<br>  
 This system ensures that travelers are well-informed about the environmental conditions of their destination, allowing them to plan their trip efficiently and minimize unexpected complications.  
 
 ---  
@@ -48,6 +48,7 @@ This system ensures that travelers are well-informed about the environmental con
 <br>- *✈️ Flight Status:* Potential delays or cancellations for flights to the selected destination.  
 <br>- *📞 Emergency Contacts:* Important local emergency numbers, such as ambulance services, police assistance, and travel hotlines.  
 
+![Screenshot 2025-04-02 215853](https://github.com/user-attachments/assets/1dc36822-c1df-42bc-9ded-fdcc41d4c1a3)
 
 
 ---  

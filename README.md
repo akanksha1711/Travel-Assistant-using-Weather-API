@@ -8,7 +8,7 @@ This system ensures that travelers are well-informed about the environmental con
 ---  
 
 >## 🏆 Acknowledgement  
->>This project was made possible with the invaluable guidance of [*Prof. Ashok K. Harnal*](https://github.com/harnalashok). His insights, expertise in AI applications, and mentorship have significantly contributed to shaping the vision and execution of this Travel Assistant. We extend our heartfelt gratitude for his support throughout this journey.  
+>>This project was made possible with the invaluable guidance of [Prof. Ashok K. Harnal](https://github.com/harnalashok). His insights, expertise in AI applications, and mentorship have significantly contributed to shaping the vision and execution of this Travel Assistant. We extend our heartfelt gratitude for his support throughout this journey.  
 
 ---  
 
